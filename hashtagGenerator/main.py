@@ -15,6 +15,8 @@ Examples
 "    Hello     World   "                  =>  "#HelloWorld"
 ""                                        =>  false
 
+Created by Kira Tubo
+Created on Apr 22, 2023
 """
 
 
